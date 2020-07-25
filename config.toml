@@ -1,0 +1,48 @@
+baseurl = "https://scottcwilson.github.io/"
+languageCode = "en-us"
+title = "Scott C. Wilson" 
+theme = "anatole"
+copyright = "Scott C Wilson"
+enableEmoji = true
+
+[author]
+	name = "Scott C Wilson"
+	linkedin = "scottcwilson"
+	twitter = "scottcwilson"
+	twitter2 = "thatsoftwareguy"
+	github = "scottcwilson"
+	facebook = "scottcwilson"
+
+[params]
+title = "Scott C. Wilson" 
+author = "Scott C. Wilson" 
+description = "Mild mannered dork by day.  Even bigger dork by night."
+extra_description = ["Here's some of the stuff that keeps me occupied.","Thanks for visiting."]
+profilePicture = "images/me.jpeg"
+keywords = ""
+favicon = "favicons/"
+customCss = []
+customJs = []
+mainSections = ["post"]
+images = ["images/site-feature-image.png"]
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/scottcwilson/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/scottcwilson" 
+
+[[params.socialIcons]]
+icon = "fa-envelope"
+title = "e-mail"
+url = "mailto:scottcwilson@hey.com" 
+
+[[params.socialIcons]]
+icon = "fa-twitter"
+title = "twitter"
+url = "https://twitter.com/thatsoftwareguy"
