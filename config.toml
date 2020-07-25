@@ -38,6 +38,11 @@ title = "GitHub"
 url = "https://github.com/scottcwilson" 
 
 [[params.socialIcons]]
+icon = "fa-stack-overflow"
+title = "StackOverflow"
+url = "https://stackoverflow.com/users/319741"
+
+[[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
 url = "mailto:scottcwilson@hey.com" 
