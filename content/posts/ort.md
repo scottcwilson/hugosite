@@ -1,7 +1,7 @@
 +++
 title = "My book group website"
 type = "post"
-weight = 50
+weight = 80
 lastmod = "2020-07-25"
 date = "2020-07-25"
 +++
