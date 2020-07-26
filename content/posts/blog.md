@@ -1,7 +1,7 @@
 +++
 title = "My blog"
 type = "post"
-weight = 60
+weight = 30
 date = "2020-07-25"
 +++
 
