@@ -804,3 +804,6 @@ a.btn {
   cursor: zoom-out;
   will-change: transform;
 }
+.sidebar .logo-title {
+   padding-top: 180px;
+}
