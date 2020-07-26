@@ -5,7 +5,7 @@ weight = 60
 date = "2020-07-25"
 +++
 
-This is my blog. It's mostly about my Zen Cart work but sometimes I cover a few other topics so it's less of a snooze-fest. 
+This is my blog. The content is mostly related to Zen Cart, but sometimes I cover a few other topics so it's less of a snooze-fest. 
 
 <!--more-->
 
