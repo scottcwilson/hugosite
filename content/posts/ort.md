@@ -6,8 +6,7 @@ lastmod = "2020-07-25"
 date = "2020-07-25"
 +++
 
-This is my book group website.  We have been reading together for 
-more than ten years. 
+This is [my book group website](http://tampabaybookgroup.org).  We have been reading together for more than ten years. 
 
 <!--more-->
 Live Site: <http://tampabaybookgroup.org>

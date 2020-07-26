@@ -6,7 +6,7 @@ date = "2020-07-25"
 lastmod = "2020-07-25"
 +++
 
-This is the store where I sell my mods (mostly Zen Cart).  Naturally the store runs Zen Cart! 
+This is [my store](https://www.thatsoftwareguy.com/store).  I sell software and services.  Naturally the store runs Zen Cart! 
 
 <!--more-->
 

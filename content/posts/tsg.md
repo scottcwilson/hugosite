@@ -6,7 +6,7 @@ date = "2020-07-25"
 lastmod = "2020-07-25"
 +++
 
-This is my business website.  I've been doing 
+This is [my business website](https://www.thatsoftwareguy.com).  I've been doing 
 [Zen Cart](https://www.zen-cart.com)
 modifications (and also working with a handful of other carts) 
 since 2006.
