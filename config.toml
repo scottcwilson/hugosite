@@ -35,11 +35,6 @@ title = "StackOverflow"
 url = "https://stackoverflow.com/users/319741"
 
 [[params.socialIcons]]
-icon = "fa-envelope"
-title = "e-mail"
-url = "mailto:scottcwilson@hey.com" 
-
-[[params.socialIcons]]
 icon = "fa-twitter"
 title = "twitter"
 url = "https://twitter.com/thatsoftwareguy"
